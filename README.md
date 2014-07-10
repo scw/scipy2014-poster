@@ -2,7 +2,7 @@ Modeling The Global Shipping Trade Using A Python-based Analysis Stack
 ======================================================================
 
  - [Open the poster](https://github.com/scw/scipy2014-poster/poster-scipy-2014.pdf) (2.5MB PDF)
- - [Download the source](https://github.com/scw/scipy2014-poster/poster-scipy-2014.pdf) (5.2MB Inkscape SVG)
+ - [Download the source](https://github.com/scw/scipy2014-poster/poster-scipy-2014.svg) (5.2MB Inkscape SVG)
 
 
 Description
